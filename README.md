@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @A-Kaminer aka Andrew Kaminer
+- 👀 I’m interested in open source, privacy, security, and crptography.
+- 🌱 I’m currently learning everything! I'm a high school student.
+- 💞️ I’m looking to collaborate on impactful open source projects.
+- 📫 How to reach me: my email is andrewkaminer@gmail.com.
