@@ -2,6 +2,10 @@
 
 [Georgia Tech Fintech Lab](https://github.com/gtfintechlab)
 
+## Who am I?
+- College Freshman
+- Nerd
+
 ## What do I do like?
 
 - Learning new things
