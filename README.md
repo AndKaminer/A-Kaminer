@@ -6,7 +6,7 @@
 - College Freshman
 - Nerd
 
-## <span style="color:red">What do I do like?<\span>
+## <span style="color:red">What do I do like?</span>
 
 - Learning new things
 - Research
