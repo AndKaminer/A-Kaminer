@@ -1,6 +1,6 @@
 # Andrew Kaminer
 
-(Georgia Tech Fintech Lab)[https://github.com/gtfintechlab]
+[Georgia Tech Fintech Lab](https://github.com/gtfintechlab)
 
 ## What do I do like?
 
