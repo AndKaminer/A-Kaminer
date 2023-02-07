@@ -3,7 +3,7 @@
 
 # Andrew Kaminer <a href="linkedin.com/in/andrew-kaminer-a89156228"><img src="https://user-images.githubusercontent.com/94922098/217376181-708cddc6-07c0-41ca-89ba-9fabc2817a14.png" alt="LinkedIn" width="32px"></img></a>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="linkedin.com/in/andrew-kaminer-a89156228"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></img></a>
 
 ## Data Nerd 📊 Researcher 👨‍🔬 Investor 📉 Security Risk 😎
 
