@@ -16,7 +16,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Kaminer&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Kaminer&layout=compact)](https://github.com/A-Kaminer)
 
 
@@ -33,5 +32,4 @@ I'm a Freshman in computer science at Georgia Tech doing machine learning resear
 - Utilizing machine learning models to optimize parameters of experimental cancer research
 - Developing models of pricing assets can outperform the market when used in a trading strategy. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Kaminer&layout=compact)](https://github.com/A-Kaminer)
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Kaminer&show_icons=true&theme=tokyonight)
