@@ -8,5 +8,6 @@
 I'm a Freshman in computer science at Georgia Tech doing machine learning research at Georgia Tech's Financial Services and Innovation Lab (FSIL) and Sulchek BioMEMS and Biomechanics lab. My interests lie in machine learning, quantitative finance, security, and operating systems. I hope to pursue research in quantitative finance in the future.
 
 
-## I'm Working on :
-- 
+## I'm Working on:
+- Utilizing machine learning models to optimize parameters of experimental cancer research
+- Developing models of pricing assets can outperform the market when used in a trading strategy. 
