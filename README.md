@@ -3,7 +3,7 @@
 
 # Andrew Kaminer
 
-## Data Nerd 📊 Researcher 👨‍🔬 Investor 📉
+## Data Nerd 📊 Researcher 👨‍🔬 Investor 📉 Recreational Hacker 😎
 
 I'm a Freshman in computer science at Georgia Tech doing machine learning research at Georgia Tech's Financial Services and Innovation Lab (FSIL) and Sulchek BioMEMS and Biomechanics lab. My interests lie in machine learning, quantitative finance, security, and operating systems. I hope to pursue research in quantitative finance in the future.
 
