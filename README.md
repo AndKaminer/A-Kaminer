@@ -13,13 +13,14 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Kaminer&layout=compact&theme=tokyonight)](https://github.com/A-Kaminer)
-
 <a href="https://fintech.gatech.edu/#/"><img alt="Georgia Tech Financial Services and Innovation Lab" src="https://user-images.githubusercontent.com/94922098/217368610-7673b8af-6db6-454a-8d9d-5466d4ed70c4.png"></img></a>
 <a href="https://www.sulchek2.gatech.edu/"><img alt="Sulchek BioMEMS Lab" src="https://user-images.githubusercontent.com/94922098/217366614-fa059589-98f6-4b36-b181-cf998638f8a9.png"></img></a>
 
 
 I'm a Freshman in computer science at Georgia Tech doing machine learning research at Georgia Tech's Financial Services and Innovation Lab (FSIL) and the Sulchek BioMEMS and Biomechanics lab. My interests lie in machine learning, quantitative finance, security, and operating systems. I hope to pursue research in quantitative finance in the future.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Kaminer&layout=compact&theme=tokyonight)](https://github.com/A-Kaminer)
+
 
 ## Contact Me:
 
