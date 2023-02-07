@@ -30,4 +30,4 @@ I'm a Freshman in computer science at Georgia Tech doing machine learning resear
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Kaminer&layout=compact)](https://github.com/A-Kaminer)
 
-
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Kaminer&show_icons=true&theme=transparent)
