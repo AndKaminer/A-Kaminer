@@ -7,9 +7,16 @@
 
 I'm a Freshman in computer science at Georgia Tech doing machine learning research at Georgia Tech's Financial Services and Innovation Lab (FSIL) and the Sulchek BioMEMS and Biomechanics lab. My interests lie in machine learning, quantitative finance, security, and operating systems. I hope to pursue research in quantitative finance in the future.
 
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
 
 ## I'm Working on:
 - Utilizing machine learning models to optimize parameters of experimental cancer research
 - Developing models of pricing assets can outperform the market when used in a trading strategy. 
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
