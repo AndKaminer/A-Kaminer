@@ -2,7 +2,7 @@
 
 [Georgia Tech Fintech Lab](https://github.com/gtfintechlab)
 
-<a href="https://www.sulchek2.gatech.edu/" src="https://miro.medium.com/max/1400/1*D5RLIuRqPGC5GB451_DfVQ.png">Sulchek BioMEMS and Biomechanics Lab</a>
+<a href="https://www.sulchek2.gatech.edu/"><img src="https://miro.medium.com/max/1400/1*D5RLIuRqPGC5GB451_DfVQ.png"></img>Sulchek BioMEMS and Biomechanics Lab</a>
 
 [Sulchek BioMEMS and Biomechanics Lab](https://www.sulchek2.gatech.edu/)
 
