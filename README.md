@@ -28,4 +28,6 @@ I'm a Freshman in computer science at Georgia Tech doing machine learning resear
 - Utilizing machine learning models to optimize parameters of experimental cancer research
 - Developing models of pricing assets can outperform the market when used in a trading strategy. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Kaminer&layout=compact)](https://github.com/A-Kaminer)
+
 
