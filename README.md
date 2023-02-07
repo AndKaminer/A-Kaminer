@@ -1,8 +1,7 @@
-![banner](https://png.pngtree.com/background/20210709/original/pngtree-the-internet-financial-economic-data-picture-image_924560.jpg)
-
 # Andrew Kaminer
 
 [Georgia Tech Fintech Lab](https://github.com/gtfintechlab)
+
 [Sulchek BioMEMS and Biomechanics Lab](https://www.sulchek2.gatech.edu/)
 
 ## Who am I?
