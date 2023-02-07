@@ -19,7 +19,7 @@
 
 I'm a Freshman in computer science at Georgia Tech doing machine learning research at Georgia Tech's Financial Services and Innovation Lab (FSIL) and the Sulchek BioMEMS and Biomechanics lab. My interests lie in machine learning, quantitative finance, security, and operating systems. I hope to pursue research in quantitative finance in the future.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Kaminer&layout=compact&theme=tokyonight&hide=typescript,html,css,javascript,scss)](https://github.com/A-Kaminer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Kaminer&layout=compact&theme=transparent&hide=typescript,html,css,javascript,scss)](https://github.com/A-Kaminer)
 
 
 
