@@ -3,16 +3,8 @@
 
 # Andrew Kaminer
 
-## Data Nerd 📊 Researcher 👨‍🔬 Investor 📉 Security Risk 😎
+## Data Nerd | Researcher | Investor | Security Risk
 
-I'm a Freshman in computer science at Georgia Tech doing machine learning research at Georgia Tech's Financial Services and Innovation Lab (FSIL) and the Sulchek BioMEMS and Biomechanics lab. My interests lie in machine learning, quantitative finance, security, and operating systems. I hope to pursue research in quantitative finance in the future.
-
-## Contact Me:
-
-<a href="https://linkedin.com/in/andrew-kaminer-a89156228"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></img></a>
-<a href="mailto:akaminer@gatech.edu"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></img></a>
-
-## My Tools:
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,7 +16,12 @@ I'm a Freshman in computer science at Georgia Tech doing machine learning resear
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+I'm a Freshman in computer science at Georgia Tech doing machine learning research at Georgia Tech's Financial Services and Innovation Lab (FSIL) and the Sulchek BioMEMS and Biomechanics lab. My interests lie in machine learning, quantitative finance, security, and operating systems. I hope to pursue research in quantitative finance in the future.
 
+## Contact Me:
+
+<a href="https://linkedin.com/in/andrew-kaminer-a89156228"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></img></a>
+<a href="mailto:akaminer@gatech.edu"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></img></a>
 
 
 ## I'm Working on:
