@@ -11,3 +11,5 @@ I'm a Freshman in computer science at Georgia Tech doing machine learning resear
 ## I'm Working on:
 - Utilizing machine learning models to optimize parameters of experimental cancer research
 - Developing models of pricing assets can outperform the market when used in a trading strategy. 
+
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
