@@ -24,7 +24,7 @@ I'm a Freshman in computer science at Georgia Tech doing machine learning resear
 <a href="mailto:akaminer@gatech.edu"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></img></a>
 
 
-## I'm Working on:
+## Currently Working On:
 - Utilizing machine learning models to optimize parameters of experimental cancer research
 - Developing models of pricing assets can outperform the market when used in a trading strategy. 
 
