@@ -3,7 +3,7 @@
 [Georgia Tech Fintech Lab](https://github.com/gtfintechlab)
 
 
-<a href="https://fintech.gatech.edu/#/"><img alt="Georgia Tech Financial Services and Innovation Lab" href="https://user-images.githubusercontent.com/94922098/217368610-7673b8af-6db6-454a-8d9d-5466d4ed70c4.png"></img></a>
+<a href="https://fintech.gatech.edu/#/"><img alt="Georgia Tech Financial Services and Innovation Lab" src="https://user-images.githubusercontent.com/94922098/217368610-7673b8af-6db6-454a-8d9d-5466d4ed70c4.png"></img></a>
 
 <a href="https://www.sulchek2.gatech.edu/"><img alt="Sulchek BioMEMS Lab" src="https://user-images.githubusercontent.com/94922098/217366614-fa059589-98f6-4b36-b181-cf998638f8a9.png"></img></a>
 
@@ -22,4 +22,3 @@
 
 ## I'm Working on :
 - 
-![fsil](https://user-images.githubusercontent.com/94922098/217368712-52fa74ad-e6c8-4f33-80c0-fd28410a02ec.png)
