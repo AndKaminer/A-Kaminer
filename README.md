@@ -1,3 +1,5 @@
+![banner](https://png.pngtree.com/background/20210709/original/pngtree-the-internet-financial-economic-data-picture-image_924560.jpg)
+
 # Andrew Kaminer
 
 [Georgia Tech Fintech Lab](https://github.com/gtfintechlab)
