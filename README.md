@@ -12,6 +12,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 <a href="https://fintech.gatech.edu/#/"><img alt="Georgia Tech Financial Services and Innovation Lab" src="https://user-images.githubusercontent.com/94922098/217368610-7673b8af-6db6-454a-8d9d-5466d4ed70c4.png"></img></a>
 <a href="https://www.sulchek2.gatech.edu/"><img alt="Sulchek BioMEMS Lab" src="https://user-images.githubusercontent.com/94922098/217366614-fa059589-98f6-4b36-b181-cf998638f8a9.png"></img></a>
@@ -26,6 +27,13 @@ I'm a Freshman in computer science at Georgia Tech doing machine learning resear
 ## Currently Working On:
 - Utilizing machine learning models to optimize parameters of experimental cancer research
 - Developing models of pricing assets can outperform the market when used in a trading strategy. 
+
+## Currently Learning:
+- The basics of asset pricing
+- Probability
+- Pandas
+- Flask
+- Statsmodels API
 
 <!--
 % ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Kaminer&show_icons=true&theme=tokyonight)
