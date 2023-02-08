@@ -29,11 +29,11 @@ I'm a Freshman in computer science at Georgia Tech doing machine learning resear
 - Developing models of pricing assets can outperform the market when used in a trading strategy. 
 
 ## Currently Learning:
-- The basics of asset pricing
-- Probability
-- Pandas
-- Flask
-- Statsmodels API
+- Asset Pricing 💲
+- Probability and Stats 📊
+- Pandas 🐼
+- Flask 🍷
+- Statsmodels API 📈
 
 <!--
 % ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Kaminer&show_icons=true&theme=tokyonight)
