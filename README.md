@@ -1,6 +1,6 @@
 # Andrew Kaminer
 
-## Data Nerd | Researcher | Investor | Security Risk
+## Data Nerd | Researcher | Security Risk
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
